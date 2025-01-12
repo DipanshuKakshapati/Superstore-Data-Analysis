@@ -106,7 +106,7 @@ This project is a comprehensive dashboard created using **Streamlit** and **Plot
 
 1. Clone this repository.
 2. Install dependencies: `pip install -r requirements.txt`.
-3. Update database credentials in `db_config.py`.
+3. Update database credentials in `config.py`.
 4. Run the data preparation notebook (`Data Preparation.ipynb`) to clean and load the data into the database.
 5. Launch the Streamlit app: `streamlit run app.py`.
 
