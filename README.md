@@ -54,7 +54,7 @@ This project is a comprehensive dashboard created using **Streamlit** and **Plot
 ## Database Design
 
 ### ER Diagram
-![ER Diagram](Users/dipanshuksh/Data Analysis With Python/Superstore-Data-Analysis/ER Diagram.png)
+![ER Diagram](Users/dipanshuksh/Data Analysis With Python/Superstore-Data-Analysis/Assets/ER Diagram.png)
 
 ### Key Features of the Database:
 - **Schema Overview**:
@@ -90,7 +90,7 @@ This project is a comprehensive dashboard created using **Streamlit** and **Plot
 ---
 
 ## Visualizations in the Dashboard
-![Dynamic Visualization Dashboard](Users/dipanshuksh/Data Analysis With Python/Superstore-Data-Analysis/Dashboard.png)
+![Dynamic Visualization Dashboard](Users/dipanshuksh/Data Analysis With Python/Superstore-Data-Analysis/Assets/Dashboard.png)
 
 ---
 
