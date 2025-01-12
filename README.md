@@ -112,14 +112,6 @@ This project is a comprehensive dashboard created using **Streamlit** and **Plot
 
 ---
 
-## Future Enhancements
-
-- Add predictive analysis using machine learning to forecast sales.
-- Implement real-time data updates to track live metrics.
-- Introduce drill-down capabilities for a more detailed view of data.
-
----
-
 ## Credits
 
 - Dashboard developed by Dipanshu Kakshapati.
