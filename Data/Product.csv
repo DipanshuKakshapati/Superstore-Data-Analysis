@@ -1,0 +1,47 @@
+ProductGUID,ProductID,Category,SubCategory,Container
+a828de89-cc82-45d4-bf6e-a5b176032f59,1,Office Supplies,Labels,Small Box
+4ae74995-1034-481b-813d-ead1c7292f94,2,Office Supplies,Pens & Art Supplies,Wrap Bag
+eebe042a-6a13-4133-b768-03d7e64c9369,3,Office Supplies,Paper,Small Box
+f4c0adb5-fc72-4478-a4f6-d235fa5daa65,4,Office Supplies,"Scissors, Rulers and Trimmers",Small Pack
+8fc5df08-168f-4cbf-9b68-2580389ae0d7,5,Technology,Telephones and Communication,Small Box
+ca9f7d3b-7efb-4b94-8af6-123d843d2365,6,Technology,Office Machines,Jumbo Drum
+254f6ae9-0514-44c4-9358-31fa425339f2,7,Furniture,Chairs & Chairmats,Jumbo Drum
+7ba92b84-7e73-4d64-8f1d-b831c671a3fc,8,Office Supplies,Appliances,Small Box
+cc691f6b-2019-4c1a-81df-0fe6a21d74e2,9,Technology,Telephones and Communication,Wrap Bag
+23f9b2e9-a232-44f5-a56b-5a94685c046e,10,Furniture,Bookcases,Jumbo Box
+f8ac426e-bd1b-4289-af7b-ee392b687a2f,11,Furniture,Tables,Jumbo Box
+bc1c3f2e-218d-4ac0-a5dd-175cb5fc121f,12,Office Supplies,Envelopes,Small Box
+80b7eed7-b363-413b-8321-c4b57ac84a00,13,Furniture,Office Furnishings,Small Pack
+50a1588e-86bc-4b5f-b4d8-9d712d77ae57,14,Furniture,Office Furnishings,Small Box
+d8ac74b0-6467-45e0-83de-90b1bde6c20f,15,Office Supplies,Rubber Bands,Wrap Bag
+b52e5bba-866d-42fa-be23-b3d59febd151,16,Furniture,Office Furnishings,Wrap Bag
+ea5a0899-7c7d-4411-8b03-be9d8339e1ee,17,Office Supplies,Binders and Binder Accessories,Small Box
+fde96d54-de2e-4f8d-bdf8-00923525dbd2,18,Technology,Office Machines,Medium Box
+f5a8561e-cb5c-4f5d-baf4-5820cfada1eb,19,Office Supplies,Storage & Organization,Large Box
+23635f10-961f-480d-9314-60c20d2d0457,20,Office Supplies,Pens & Art Supplies,Small Pack
+c44d630b-0c0f-4b88-bf8a-97fe9dd80d23,21,Office Supplies,Appliances,Medium Box
+4e0e9f58-0a12-43c5-a36f-aaf11745df19,22,Technology,Computer Peripherals,Small Pack
+0270a150-478b-4fd8-b108-aa88ce2b6047,23,Office Supplies,Storage & Organization,Small Box
+85db1466-a5d8-48b1-9ef7-cae78d05bb46,24,Office Supplies,Pens & Art Supplies,Small Box
+4fac729b-ee15-487d-9ede-92f1e01c133f,25,Office Supplies,Paper,Wrap Bag
+c6a0794c-f9ce-41d2-b626-6f22cdf99b46,26,Technology,Copiers and Fax,Jumbo Drum
+83025abf-2b0c-461e-84f8-fb11be379ebc,27,Technology,Office Machines,Large Box
+ce982c12-fc21-4570-a38a-aaadcf45b0ef,28,Office Supplies,Storage & Organization,Medium Box
+3533aea2-a740-4e6b-8dcb-2a97f4490cc9,29,Technology,Telephones and Communication,Small Pack
+0e201e67-40f5-4a1f-acaf-49a53ffd8ad1,30,Technology,Office Machines,Small Box
+bc93112c-d441-48a0-8c54-488f7c692d75,31,Technology,Computer Peripherals,Small Box
+7951f709-3401-4b75-b72d-d8453a4a03ee,32,Furniture,Chairs & Chairmats,Large Box
+7155a587-a7d3-4456-90df-46d01a7d5926,33,Technology,Office Machines,Jumbo Box
+f4332396-1579-4fab-9177-5c90e842b556,34,Furniture,Tables,Large Box
+a089bdea-dcf9-49c4-8ce4-fd98c3c9b3ef,35,Furniture,Office Furnishings,Medium Box
+a505c470-5f65-428b-97fd-e090e17a8f47,36,Furniture,Office Furnishings,Large Box
+2774c7dc-966a-4d4d-83b3-8c296a91625d,37,Technology,Telephones and Communication,Medium Box
+96247f08-7fd6-4d79-ae3e-a1c42a9efef2,38,Office Supplies,Appliances,Large Box
+d5a8b4d8-8362-48b1-91f0-26f87d95ba4b,39,Office Supplies,Storage & Organization,Jumbo Drum
+c41ac565-2d0e-49c0-80c7-55ea7b578b00,40,Office Supplies,"Scissors, Rulers and Trimmers",Wrap Bag
+f2d4d151-0bc2-458b-a4d8-57e8d540e540,41,Office Supplies,Appliances,Jumbo Drum
+1224d9bc-4ab8-40d9-8d72-05f2e7170ab1,42,Technology,Copiers and Fax,Large Box
+627735ec-4416-4952-b361-15cc84007168,43,Furniture,Chairs & Chairmats,Medium Box
+d103ae11-78a8-45fd-85fa-fe72c8556b73,44,Furniture,Tables,Jumbo Drum
+aa5d1199-20ad-44cf-b9c3-2bd0840c86d8,45,Office Supplies,"Scissors, Rulers and Trimmers",Medium Box
+b5e714a3-d9be-43c0-8f1b-72d894b44561,46,Furniture,Office Furnishings,Jumbo Drum
