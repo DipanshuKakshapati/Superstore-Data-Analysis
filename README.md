@@ -54,7 +54,7 @@ This project is a comprehensive dashboard created using **Streamlit** and **Plot
 ## Database Design
 
 ### ER Diagram
-![ER Diagram](Assets/ER Diagram.png)
+![ER Diagram](Assets/ER%20Diagram.png)
 
 ### Key Features of the Database:
 - **Schema Overview**:
