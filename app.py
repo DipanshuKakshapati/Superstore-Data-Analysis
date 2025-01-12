@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 from sqlalchemy import create_engine
 import numpy as np
-from config import DATABASE_URL 
+import os
 
 # Setup page configuration to increase width
 # Page configuration
@@ -12,6 +12,8 @@ st.set_page_config(
     page_icon="🏬",
     layout="wide",
     initial_sidebar_state="expanded")
+
+DATABASE_URL = os.getenv("DATABASE_URL")
 
 # Set up connection
 engine = create_engine(DATABASE_URL)
